@@ -8,14 +8,14 @@ import sys
 # minecraft ticks
 tickno = 0
 
-# source_file = filedialog.askopenfile().name
-# output_directory = filedialog.askdirectory()
+source_file = filedialog.askopenfile().name
+output_directory = filedialog.askdirectory()
 
 
-source_file = 'C:/Users/Hanmin/Documents/imas/files/goodies/songs/alive1.vmd'
-output_directory = 'C:/Users/Hanmin/AppData/Roaming/.minecraft/saves/mikumikudance/datapacks/mmd/data/mmd/functions/alive1'
-# 'C:/Users/Hanmin/Documents/imas/files/goodies/songs/alive2.vmd'
-# 'C:/Users/Hanmin/AppData/Roaming/.minecraft/saves/mikumikudance/datapacks/mmd/data/mmd/functions/alive2'
+#source_file = 'C:/Users/Hanmin/Documents/imas/files/goodies/songs/dans.vmd'
+#output_directory = 'C:/Users/Hanmin/AppData/Roaming/.minecraft/saves/mikumikudance/datapacks/mmd/data/mmd/functions/dans'
+# 'C:/Users/Hanmin/Documents/imas/files/goodies/songs/hanamuke.vmd'
+# 'C:/Users/Hanmin/AppData/Roaming/.minecraft/saves/mikumikudance/datapacks/mmd/data/mmd/functions/hanamuke1'
 if source_file is None or output_directory == '':
     print("This file or directory doesn't seem to exist.")
     sys.exit()
