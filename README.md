@@ -1,5 +1,5 @@
-# MikuMine
-MikuMine is a program that converts .VMD files from mikumikudance to minecraft functions so you can see the dances in-game.
+# MikuMikuMine
+MikuMikuMine is a program that converts .VMD files from mikumikudance to minecraft functions so you can see the dances in-game.
 Example:
 https://youtu.be/gpqPGgSCI2E
 
