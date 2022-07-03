@@ -1,3 +1,10 @@
+# An updated version of this project can be found here!
+
+https://github.com/hanmindev/MCMV
+
+The updated version uses .bvh files rather than .vmd files as input, but you can convert .vmd files to .bvh using tools like blender.
+
+
 # MikuMikuMine
 MikuMikuMine is a program that converts .VMD files from mikumikudance to minecraft functions so you can see the dances in-game.
 Example:
